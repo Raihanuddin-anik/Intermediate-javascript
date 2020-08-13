@@ -1,3 +1,17 @@
+// falsy value
+// 1.false
+// 2.0
+// 3.""
+// 4. undefine
+// 5.null
+// 6.NaN
+// Truthy vlaue
+// 1.'0'
+// 2." "
+// 3.[]
+
+
+
 // const age = 0;
 
 // if(age){
